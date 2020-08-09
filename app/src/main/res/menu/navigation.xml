@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id="@+id/assignment"
+     android:title="Assignment"
+     android:icon="@drawable/ic_assignment_black_24dp"/>
+    <item android:id="@+id/notes"
+     android:title="Notes"
+        android:icon="@drawable/ic_note_add_black_24dp"/>
+
+</menu>
